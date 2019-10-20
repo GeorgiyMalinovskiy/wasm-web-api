@@ -1,0 +1,7 @@
+# Build & config
+/target
+**/*.rs.bk
+Cargo.lock
+
+#IDE
+.DS_Store
